@@ -1,1 +1,1 @@
-print("yo koso")
+print("yo ")
